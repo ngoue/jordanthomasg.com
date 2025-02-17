@@ -276,8 +276,8 @@ export default async function Home() {
             Software developer, lacrosse coach, husband & father.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Jordan Gardner, a software developer based in Provo, Utah. I'm
-            passionate about technology, lacrosse, golf, traveling, and &mdash; most of all
+            I&apos;m Jordan Gardner, a software developer based in Provo, Utah. I&apos;m
+            passionate about technology, lacrosse, golf, traveling and &mdash; most of all
             &mdash; my family.
           </p>
           <div className="mt-6 flex gap-6">
