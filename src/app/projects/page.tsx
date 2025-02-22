@@ -21,7 +21,7 @@ const projects = [
   {
     name: "Hearts: Scoreboard",
     description: "A simple iOS scoring app for the card game Hearts.",
-    link: { href: "https://example.com", label: "example.com" },
+    link: { href: "https://apps.apple.com/us/app/hearts-scoreboard/id6736599187?uo=2", label: "See it on the App Store" },
     logo: logoHearts
   },
   // {
